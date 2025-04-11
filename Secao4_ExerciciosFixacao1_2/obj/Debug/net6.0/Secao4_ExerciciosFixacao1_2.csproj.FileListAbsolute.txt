@@ -1,0 +1,15 @@
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\bin\Debug\net6.0\Secao4_ExerciciosFixacao1_2.exe
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\bin\Debug\net6.0\Secao4_ExerciciosFixacao1_2.deps.json
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\bin\Debug\net6.0\Secao4_ExerciciosFixacao1_2.runtimeconfig.json
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\bin\Debug\net6.0\Secao4_ExerciciosFixacao1_2.dll
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\bin\Debug\net6.0\Secao4_ExerciciosFixacao1_2.pdb
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\obj\Debug\net6.0\Secao4_ExerciciosFixacao1_2.csproj.AssemblyReference.cache
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\obj\Debug\net6.0\Secao4_ExerciciosFixacao1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\obj\Debug\net6.0\Secao4_ExerciciosFixacao1_2.AssemblyInfoInputs.cache
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\obj\Debug\net6.0\Secao4_ExerciciosFixacao1_2.AssemblyInfo.cs
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\obj\Debug\net6.0\Secao4_ExerciciosFixacao1_2.csproj.CoreCompileInputs.cache
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\obj\Debug\net6.0\Secao4_ExerciciosFixacao1_2.dll
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\obj\Debug\net6.0\refint\Secao4_ExerciciosFixacao1_2.dll
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\obj\Debug\net6.0\Secao4_ExerciciosFixacao1_2.pdb
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\obj\Debug\net6.0\Secao4_ExerciciosFixacao1_2.genruntimeconfig.cache
+C:\C#\Secao4_ExerciciosFixacao1_2\Secao4_ExerciciosFixacao1_2\obj\Debug\net6.0\ref\Secao4_ExerciciosFixacao1_2.dll
